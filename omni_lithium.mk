@@ -26,5 +26,5 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := lithium
 PRODUCT_NAME := omni_lithium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MIX
+PRODUCT_MODEL := MI MIX
 PRODUCT_MANUFACTURER := Xiaomi
