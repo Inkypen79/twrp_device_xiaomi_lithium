@@ -4,5 +4,11 @@
     "repository": "TeamWin/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":"android-7.1"
+  },
+  {
+    "remote": "github",
+    "repository": "minimal-manifest-twrp/platform_external_busybox",
+    "target_path": "external/busybox",
+    "revision": "master"
   }
 ]
